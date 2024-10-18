@@ -1,0 +1,7 @@
+--- Happy path: 'Hello the World' 4 ---
+args: "Hello the World" 4
+expected: [Hello', 'World']
+
+--- Happy path: 'Hello the World' 99 ---
+args: 'Hello the World' 99
+expected: []

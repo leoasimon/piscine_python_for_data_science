@@ -1,0 +1,5 @@
+- [ ] Create setup script for python env
+- [ ] Finish ex08
+- [ ] Dummy tests
+	- [ ] Folder and file names
+	- [ ] Norme

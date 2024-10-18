@@ -1,0 +1,7 @@
+What is the text to count?
+The text contains 13 characters:
+2 upper letters
+8 lower letters
+1 punctuation marks
+2 spaces
+0 digits
